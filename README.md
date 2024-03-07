@@ -41,7 +41,7 @@ The project structure organizes source code, libraries, and documentation under 
 - Basic matrix operations including addition, subtraction, multiplication, and more.
 - Specialized matrix classes for horizontal, vertical, and square matrices.
 - Functions for resizing and transposing matrices.
-- Efficient implementation for calculating Fibonacci numbers using matrix exponentiation.
+- Efficient implementation for calculating power and determinant of square matrices.
 
 ## About the Author
 
